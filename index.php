@@ -8,10 +8,6 @@
 
 <body>
 	<h1 id="h1"></h1>
-	<div class="ui dropdown">
-	  <div class="text"></div>
-	  <i class="dropdown icon"></i>
-	</div>
 
 </body>
 </html>
